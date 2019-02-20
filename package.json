@@ -1,13 +1,13 @@
 {
-  "name": "start-lit-element",
-  "version": "1.0.0",
-  "description": "start-lit-element",
-  "repository": "https://github.com/PolymerLabs/start-lit-element.git",
-  "main": "start-lit-element.js",
+  "name": "lit-qr-element",
+  "version": "0.1.0",
+  "description": "lit-qr-scanner",
+  "repository": "https://github.com/freudFlintstone/lit-qr-scanner.git",
+  "main": "lit-qr-scanner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "The Polymer Authors",
+  "author": "freudFlintstone",
   "license": "BSD-3-Clause",
   "dependencies": {
     "@webcomponents/webcomponentsjs": "latest",
